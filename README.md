@@ -1,4 +1,4 @@
-#Clean Architecture App
+# Clean Architecture App
 This is a .NET Core application that demonstrates a clean architecture approach, using Domain-Driven Design (DDD) and Command Query Responsibility Segregation (CQRS).
 
 The application is separated into layers, with the core domain at the center and additional layers for infrastructure, presentation, and application services. This separation of concerns allows for a more modular and maintainable codebase.
